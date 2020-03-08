@@ -9,5 +9,4 @@
 
 内容 : 新闻链接1 新闻链接2
 
-
-
+[提交假新闻域名](https://github.com/jiugua17977/FakeList/issues/new)
